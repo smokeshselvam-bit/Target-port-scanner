@@ -1,0 +1,2 @@
+target,ip,port,service,banner,cve,vuln_service,severity,cvss,description,fix
+scanme.nmap.org,45.33.32.156,N/A,N/A,,No findings,,,,No known vulnerabilities matched.,

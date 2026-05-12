@@ -1,0 +1,6 @@
+# Simple Vulnerability Scanner — Requirements
+# All core modules use Python standard library only.
+# No external packages required for basic operation.
+
+# Optional: for advanced Nmap integration (not required)
+# python-nmap==0.7.1

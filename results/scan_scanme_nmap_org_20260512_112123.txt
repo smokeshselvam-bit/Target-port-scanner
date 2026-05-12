@@ -1,0 +1,25 @@
+============================================================
+   SIMPLE VULNERABILITY SCANNER — SCAN REPORT
+============================================================
+
+  Target     : scanme.nmap.org
+  IP Address : 45.33.32.156
+  Scan Time  : 2026-05-12 11:21:23
+  Duration   : 1.37s
+  Open Ports : 2
+  Findings   : 0
+
+============================================================
+ OPEN PORTS
+============================================================
+  [+] Port    22  SSH              ← SSH-2.0-OpenSSH_6.6.1p1 Ubuntu-2ubuntu2.13
+  [+] Port    80  HTTP             ← HTTP/1.1 200 OK
+
+============================================================
+ VULNERABILITY FINDINGS
+============================================================
+  No known vulnerabilities matched in the local database.
+
+============================================================
+  ⚠ FOR EDUCATIONAL AND AUTHORIZED TESTING USE ONLY
+============================================================
